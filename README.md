@@ -74,6 +74,3 @@ A workflow orchestration platform with LangFlow agent integration, manual/webhoo
 
 ---
 
-## License
-
-MIT
