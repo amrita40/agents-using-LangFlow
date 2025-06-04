@@ -20,6 +20,7 @@ interface ExecutionDetailsModalProps {
 
 interface ExecutionDetails {
   id: string
+  
   workflowName: string
   status: string
   startTime: string
